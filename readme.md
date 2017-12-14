@@ -2,7 +2,9 @@
 
 ## Parity
 
-The simple route: parity.io
+The simple route: parity.io 
+
+***Validate that your system time is exact: time.is , or you won't be able to find peers
 
 ## Geth
 
